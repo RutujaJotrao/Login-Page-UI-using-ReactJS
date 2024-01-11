@@ -10,6 +10,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-![Uploading Screenshot 2024-01-11 101104.png…]()
-![Screenshot 2024-01-11 101053](https://github.com/RutujaJotrao/UI/assets/95583405/8a1bf37d-0c0e-4368-86bb-5fbef8e572e6)
-![Screenshot 2024-01-11 101046](https://github.com/RutujaJotrao/UI/assets/95583405/cdf442c2-4b2b-4427-b103-81649c5cc12d)
+![Screenshot 2024-01-11 101104](https://github.com/RutujaJotrao/Login-Page-UI-using-ReactJS/assets/95583405/1d139d86-3122-48d9-a1bc-27749e657a75)
+![Screenshot 2024-01-11 101053](https://github.com/RutujaJotrao/Login-Page-UI-using-ReactJS/assets/95583405/9624c759-32b6-4273-94b4-fa0d4cb7c007)
+![Screenshot 2024-01-11 101046](https://github.com/RutujaJotrao/Login-Page-UI-using-ReactJS/assets/95583405/d1d9cc37-fe87-478c-878e-b61bbb7f5473)
